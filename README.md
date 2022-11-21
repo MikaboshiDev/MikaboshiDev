@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy MikaboshiDev</h1>
 <h3 align="center">Creador de Diversos bots de discord, diseño electromecanico & electronico y estudiante de diversas areas de innovacion</h3>
 
-<img align="right" alt="coding" width="400" src"https://wallpapercave.com/wp/wp6532104.jpg">
 < p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaboshidev&label=Profile%20views&color=0e75b6&style=flat" alt="mikaboshidev" /> </p>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://dsc.gg/fenixweb](https://dsc.gg/fenixweb)
