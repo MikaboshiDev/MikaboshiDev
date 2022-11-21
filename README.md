@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy MikaboshiDev</h1>
 <h3 align="center">Creador de Diversos bots de discord, diseño electromecanico & electronico y estudiante de diversas areas de innovacion</h3>
 
-< p align="izquierda"> <img src="https://komarev.com/ghpvc/?username=mikaboshidev&label=Profile%20views&color=0e75b6&style=flat" alt="mikaboshidev" /> </p>
+<p align="izquierda"> <img src="https://komarev.com/ghpvc/?username=mikaboshidev&label=Profile%20views&color=0e75b6&style=flat" alt="mikaboshidev" /> </p>
 
-<p align= "izquierda"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username= mikaboshidev" alt="mikaboshidev" /></a> </p>
+<p align="izquierda"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=mikaboshidev" alt="mikaboshidev" /></a> </p>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://dsc.gg/fenixweb](https://dsc.gg/fenixweb)
 
