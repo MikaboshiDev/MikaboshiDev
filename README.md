@@ -21,9 +21,3 @@
     <a href="https://twitter.com/mikaboshidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="mikaboshidev" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/mikaboshidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mikaboshidev" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Estadisticas de Github:</h3>
-
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mikaboshidev&show_icons=true&locale=en" alt="mikaboshidev" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaboshidev&" alt="mikaboshidev" /></p>
