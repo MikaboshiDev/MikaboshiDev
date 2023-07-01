@@ -1,6 +1,6 @@
-[![Logo](https://wallpapercave.com/wp/wp6532104.jpg)](https://dsc.gg/fenixweb ) 
-<h1 align="center">Hola 👋, soy MikaboshiDev</h1>
-<h3 align="center">Creador de Diversos bots de discord, diseño electromecanico & electronico y estudiante de diversas areas de innovacion</h3>
+[![Logo](https://rare-gallery.com/xfsearch/alt/Dark+anime/)](https://bit.ly/nightportafolio) 
+<h1 align="center">Hello 👋, I am MikaboshiDev</h1>
+<h3 align="center">Creator of various discord bots, electromechanical & electronic design and student of various areas of innovation</h3>
 
 <img align="right" alt="mikaboshidev" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaboshidev&layout=compact&theme=radical">
 
