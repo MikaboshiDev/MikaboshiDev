@@ -1,4 +1,9 @@
-[![Logo](https://rare-gallery.com/uploads/posts/514277-Dark-anime-Girl.jpg)](https://bit.ly/nightportafolio) 
+<div align="center" style"border-radius:15px">
+  <a href="https://bit.ly/nightdevelopment" title="Discord Server" target="_blank">
+    <img src="https://rare-gallery.com/uploads/posts/514277-Dark-anime-Girl.jpg" style"width: 100%;border-radius:15px">
+  </a>
+</div>
+
 <h1 align="center">Hello 👋, I am MikaboshiDev</h1>
 <h3 align="center">Creator of various discord bots, electromechanical & electronic design and student of various areas of innovation</h3>
 
