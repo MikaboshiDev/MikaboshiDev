@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://bit.ly/nightdevelopment" title="Discord Server" target="_blank">
-    <img src="https://rare-gallery.com/uploads/posts/514277-Dark-anime-Girl.jpg" style"width: 100%;border-radius:15px">
+    <img src="https://cdn.discordapp.com/attachments/1027458270589362257/1115852211726065715/11.gif" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
