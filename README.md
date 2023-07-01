@@ -1,4 +1,4 @@
-[![Logo](https://rare-gallery.com/xfsearch/alt/Dark+anime/)](https://bit.ly/nightportafolio) 
+[![Logo](https://rare-gallery.com/uploads/posts/514277-Dark-anime-Girl.jpg)](https://bit.ly/nightportafolio) 
 <h1 align="center">Hello 👋, I am MikaboshiDev</h1>
 <h3 align="center">Creator of various discord bots, electromechanical & electronic design and student of various areas of innovation</h3>
 
