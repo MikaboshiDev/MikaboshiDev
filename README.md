@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/attachments/1027458270589362257/1115852211726065715/11.gif" alt="NIGHT SERVER SUPPORT"/>
+</h1>
+
 <p align="center">
   <a href="https://github.com/MikaboshiDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F702E9&center=falso&vCenter=falso&repeat=cierto&width=435&lines=Un+Creador+de+Aplicaciones+y+Bots;Amante+del+Manga+y+las+Animaciones;Siempre+buscando+nuevas+experiencias" alt="Typing SVG" />
@@ -46,6 +50,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.adobe.com/products/illustrator.html"><img width="32px" alt="Illustrator" title="Adobe Illustrator" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://nodejs.org/es"><img width="32px" alt="Node JS" title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.mongodb.com/es"><img width="32px" alt="Mongo DB" title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.mysql.com/"><img width="32px" alt="MySql" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
@@ -90,15 +100,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MikaboshiDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
-
-</details>
-
-<details> 
-  <summary><h2>📫 Contacto</h2></summary>
-
-  <p align="left">
-    <a href="https://discord.com/users/852219497763045888"><img alt="Discord" title="Discord" src="https://custom-icon-badges.herokuapp.com/badge/-Mikaboshi%230001-1F222E?logo=discord&logoColor=white&labelColor=7289DA&style=for-the-badge&logoWidth=20"/></a>
-    <a href="https://www.instagram.com/mikaboshi.dev/"><img alt="Instagram" title="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/-Mikaboshi.dev-E4405F?logo=instagram&logoColor=white&labelColor=E4405F&style=for-the-bad
-ge&logoWidth=20"/></a>
-  </p>
 </details>
