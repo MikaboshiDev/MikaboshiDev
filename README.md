@@ -42,7 +42,7 @@
     <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Website" alt="Website"></a>
     <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MotorStirling" alt="Motor Stirling"></a>
     <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=QueenSource" alt="Queeb Source"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D" alt="Escabadora 3D"></a>
+    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Escabadora 3D"></a>
   </p>
 
   <p align="left">
