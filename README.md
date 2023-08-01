@@ -35,14 +35,14 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Night-Support" alt="Night Support"></a>
-    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Markdown" alt="shields"></a>
-    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MotorStirling" alt="simple-icons"></a>
-    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordProyects" alt="discord.py"></a>
-    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordBots" alt="onefetch"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D" alt="dateparser"></a>
-    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Website" alt="babel"></a>
-    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=QueenSource" alt="nextcord"></a>
-    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MikaboshiDev.github.io" alt="autoflake"></a>
+    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Markdown" alt="Markdown"></a>
+    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MotorStirling" alt="Motor Stirling"></a>
+    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordProyects" alt="Discord Proyects"></a>
+    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordBots" alt="Discord Bots"></a>
+    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D" alt="Escabadora 3D"></a>
+    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Website" alt="Website"></a>
+    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=QueenSource" alt="Queeb Source"></a>
+    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MikaboshiDev.github.io" alt="Mikaboshi"></a>
   </p>
 
   <p align="left">
@@ -67,14 +67,14 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/MikaboshiDev=MikaboshiDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/MikaboshiDev=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MikaboshiDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/MikaboshiDev=MikaboshiDev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://discord.gg/pgDje8S3Ed"><img alt="Mikaboshi Studio" src="https://github-readme-activity-graph.vercel.app/graph/?username=MikaboshiDev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
