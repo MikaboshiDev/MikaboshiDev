@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/pgDje8S3Ed" alt="Discord" title="Night Server Suppot"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/mikaboshidev"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/mikaboshidev"><img width="32px" alt="Dev.to" title="MikaboshiDev Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -29,10 +29,22 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MikaboshiDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+<br/>
+<p align="center">
+  <h2>Lenguajes y Herramientas</h2>
+  <a href="https://www.css.org/"><img width="32px" alt="Css" title="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.w3.org/html/"><img width="32px" alt="Html" title="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.javascript.com/"><img width="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.python.org/"><img width="32px" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+
+<details open> 
+  <summary><h2>📕 Proyectos y Contribuciones</h2></summary>
   <p align="left">
     <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Night-Support&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Night Support"></a>
     <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordBots&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Discord Bots"></a>
@@ -51,29 +63,22 @@
 </details>
 
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>📊 Github Estado y Estadisticas</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔥 Estadísticas de Racha</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/MikaboshiDev?tab=repositories">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MikaboshiDev's streak" src="https://streak-stats.demolab.com/?user=MikaboshiDev&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://github.com/MikaboshiDev?tab=repositories">git.io/streak-stats</a></p>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 GitHub Perfil</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MikaboshiDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://discord.gg/pgDje8S3Ed"><img alt="Mikaboshi Studio" src="https://github-readme-activity-graph.vercel.app/graph/?username=MikaboshiDev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
