@@ -35,14 +35,14 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Night-Support" alt="Night Support"></a>
-    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="" alt="shields"></a>
-    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="" alt="simple-icons"></a>
-    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="" alt="discord.py"></a>
-    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="" alt="onefetch"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="" alt="dateparser"></a>
-    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="" alt="babel"></a>
-    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="" alt="nextcord"></a>
-    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="" alt="autoflake"></a>
+    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Markdown" alt="shields"></a>
+    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MotorStirling" alt="simple-icons"></a>
+    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordProyects" alt="discord.py"></a>
+    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordBots" alt="onefetch"></a>
+    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D" alt="dateparser"></a>
+    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Website" alt="babel"></a>
+    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=QueenSource" alt="nextcord"></a>
+    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MikaboshiDev.github.io" alt="autoflake"></a>
   </p>
 
   <p align="left">
