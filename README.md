@@ -31,7 +31,7 @@
 
 <br/>
 <p align="center">
-  <h2>📄 Lenguajes y Herramientas</h2>
+  <h2>📄 Lenguajes y Herramientas</h2>  
   <a href="https://www.css.org/"><img width="32px" alt="Css" title="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.w3.org/html/"><img width="32px" alt="Html" title="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <h2>🪙 Estadísticas</h2>
+  <h2>🪙 Estadísticas Personales</h2>
   <a href="https://discord.gg/pgDje8S3Ed"><img alt="Mikaboshi Studio" src="https://github-readme-activity-graph.vercel.app/graph/?username=MikaboshiDev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
@@ -87,8 +87,18 @@
 
   <h3>💻 GitHub Perfil</h3>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MikaboshiDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
+
+</details>
+
+<details> 
+  <summary><h2>📫 Contacto</h2></summary>
+
+  <p align="left">
+    <a href="https://discord.com/users/852219497763045888"><img alt="Discord" title="Discord" src="https://custom-icon-badges.herokuapp.com/badge/-Mikaboshi%230001-1F222E?logo=discord&logoColor=white&labelColor=7289DA&style=for-the-badge&logoWidth=20"/></a>
+    <a href="https://www.instagram.com/mikaboshi.dev/"><img alt="Instagram" title="Instagram" src="https://custom-icon-badges.herokuapp.com/badge/-Mikaboshi.dev-E4405F?logo=instagram&logoColor=white&labelColor=E4405F&style=for-the-bad
+ge&logoWidth=20"/></a>
+  </p>
 </details>
