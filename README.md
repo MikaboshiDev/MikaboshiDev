@@ -34,15 +34,15 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=pallets&repo=Night-Support&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=badges&repo=Markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=simple-icons&repo=MotorStirling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=Rapptz&repo=discordProyects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=o2sh&repo=discordBots&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=scrapinghub&repo=escabadora3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=Website&repo=Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=QueenSource&repo=QueenSource&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=PyCQA&repo=MikaboshiDev.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+    <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Night-Support" alt="Night Support"></a>
+    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="" alt="shields"></a>
+    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="" alt="simple-icons"></a>
+    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="" alt="discord.py"></a>
+    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="" alt="onefetch"></a>
+    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="" alt="dateparser"></a>
+    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="" alt="babel"></a>
+    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="" alt="nextcord"></a>
+    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="" alt="autoflake"></a>
   </p>
 
   <p align="left">
