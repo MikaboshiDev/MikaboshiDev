@@ -27,8 +27,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MikaboshiDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/MikaboshiDev?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MikaboshiDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/MikaboshiDev/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MikaboshiDev-profile-views"/></a>
 </p>
 
 <details open> 
@@ -36,15 +34,15 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pinMikaboshiDev=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pinMikaboshiDev=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pinMikaboshiDev=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pinMikaboshiDev=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+    <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=pallets&repo=Night-Support&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=badges&repo=Markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=simple-icons&repo=MotorStirling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=Rapptz&repo=discordProyects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
+    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=o2sh&repo=discordBots&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
+    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=scrapinghub&repo=escabadora3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
+    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=Website&repo=Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
+    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=QueenSource&repo=QueenSource&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
+    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/MikaboshiDev=PyCQA&repo=MikaboshiDev.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
   </p>
 
   <p align="left">
